@@ -1,0 +1,17 @@
+# Entorno / secretos
+.env
+.env.local
+.env.*.local
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Base de datos: backups de producción
+db/backups/*
+!db/backups/.gitkeep
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp

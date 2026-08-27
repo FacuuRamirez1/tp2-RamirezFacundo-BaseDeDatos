@@ -22,6 +22,7 @@ No hay build system, tests, linter, CI, ni manifiesto de dependencias. No intent
 
 - No hay convenciones establecidas todavía. Al introducir código, consultar al usuario antes de asumir un lenguaje, ORM/sistema de base de datos o stack, ya que nada está decidido.
 
-## Seguridad
+## Reglas de Seguridad y Base de Datos
 
-Respetar siempre las normas definidas en `.kiro/steering/security-policies.md`.
+- Respetar siempre las normas definidas en `.kiro/steering/security-policies.md`.
+- No modificar el esquema ni ejecutar scripts SQL sin haber presentado primero el plan detallado.
