@@ -24,5 +24,5 @@ No hay build system, tests, linter, CI, ni manifiesto de dependencias. No intent
 
 ## Reglas de Seguridad y Base de Datos
 
-- Respetar siempre las normas definidas en `.kiro/steering/security-policies.md`.
+- Respetar siempre las normas definidas en `.kiro/steering/protocolo_seguridad.md`.
 - No modificar el esquema ni ejecutar scripts SQL sin haber presentado primero el plan detallado.

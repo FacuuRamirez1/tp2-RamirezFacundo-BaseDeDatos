@@ -14,7 +14,7 @@
 --
 -- NOTA (protocolo de seguridad): este archivo solo define código.
 -- Probarlo/ejecutarlo requiere: copia de desarrollo, transaccion
--- BEGIN...ROLLBACK y respaldo pg_dump previo, segun security-policies.md.
+-- BEGIN...ROLLBACK y respaldo pg_dump previo, segun protocolo_seguridad.md.
 
 -- ============================================================
 -- Reglas 1 y 3: validacion sobre detalle_pedido
